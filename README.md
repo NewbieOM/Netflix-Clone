@@ -1,2 +1,3 @@
 # Netflix-Clone
-Netflix clone built with HTML and CSS during my early learning phase.
+A Netflix homepage clone created using HTML and CSS to practice frontend fundamentals.
+
